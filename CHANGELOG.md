@@ -1,5 +1,11 @@
 # Changelog
 
+## 7.0.0-next-7.30
+
+### Patch Changes
+
+- a307098: Migrate the 7.x release workflow to Changesets action v2 and CLI v3.
+
 ## 7.0.0-next-7.29
 
 ### Patch Changes
