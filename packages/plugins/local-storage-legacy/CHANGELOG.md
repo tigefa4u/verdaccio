@@ -1,5 +1,11 @@
 # Change Log
 
+## 11.4.7
+
+### Patch Changes
+
+- @verdaccio/core@8.3.4
+
 ## 11.4.6
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # Change Log
 
+## 10.5.7
+
+### Patch Changes
+
+- @verdaccio/core@8.3.4
+
 ## 10.5.6
 
 ### Patch Changes
