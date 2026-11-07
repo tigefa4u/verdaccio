@@ -1,5 +1,19 @@
 # @verdaccio/web
 
+## 9.0.0-next-9.43
+
+### Patch Changes
+
+- @verdaccio/config@9.0.0-next-9.43
+  - @verdaccio/core@9.0.0-next-9.43
+  - @verdaccio/ui-theme@9.0.0-next-9.43
+  - @verdaccio/auth@9.0.0-next-9.43
+  - @verdaccio/loaders@9.0.0-next-9.43
+  - @verdaccio/middleware@9.0.0-next-9.43
+  - @verdaccio/store@9.0.0-next-9.43
+  - @verdaccio/tarball@14.0.0-next-9.43
+  - @verdaccio/logger@9.0.0-next-9.43
+
 ## 9.0.0-next-9.42
 
 ### Patch Changes
